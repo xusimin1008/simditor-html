@@ -26,8 +26,8 @@
     "grunt-umd": "2.x"
   },
   "dependencies": {
-    "jquery": "~2.1.4",
-    "simditor": "~2.3.4",
+    "jquery": "^2 || ^3",
+    "simditor": "2.3.x",
     "js-beautify": "~1.5.5"
   }
 }
